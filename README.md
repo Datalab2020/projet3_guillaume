@@ -4,13 +4,13 @@ projet webscrapping sur le site de chuckNorris
 
 
 
-#1ere fenêtre pour entrer sur le projet
+#1ere fenêtre pour entrer sur le projet  :
 intro.py
 
 
-#programme scrapping
+#programme scrapping  :
 scrapping_chuck.py
 
 
-#programme pour import des données de la bdd afin de concevoir les graphiques
+#programme pour import des données de la bdd afin de concevoir les graphiques  :
 projet3graph.py
